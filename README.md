@@ -9,27 +9,22 @@ This application helps you keep track of your financial transactions through an 
 ## 📸 Screenshots
 
 ### Main Dashboard
-![Main Dashboard](c:\Users\talal\OneDrive\Pictures\Screenshots%201\Screenshot%202025-10-07%20145552.png)
+<img width="1195" height="771" alt="Screenshot 2025-10-07 152740" src="https://github.com/user-attachments/assets/dddc4de4-a8ba-49e4-b611-cb801bee8daf" />
 
 The main interface showing your transaction history with balance tracking and filtering options.
 
 ### Add New Entry
-![Add New Entry](c:\Users\talal\OneDrive\Pictures\Screenshots%201\Screenshot%202025-10-07%20152723.png)
+<img width="322" height="587" alt="Screenshot 2025-10-07 152723" src="https://github.com/user-attachments/assets/4fd4dfef-c95b-4b29-ae60-ae304f8dba9c">
 
 Simple form to add new income or expense entries with category selection and notes.
 
-### Modern Interface
-![Modern Interface](c:\Users\talal\OneDrive\Pictures\Screenshots%201\Screenshot%202025-10-07%20152740.png)
-
-Clean, organized view of all transactions with color-coded entries and real-time balance updates.
-
 ### Edit Entry
-![Edit Entry](c:\Users\talal\OneDrive\Pictures\Screenshots%201\Screenshot%202025-10-07%20152754.png)
+<img width="317" height="583" alt="Screenshot 2025-10-07 152754" src="https://github.com/user-attachments/assets/9db276d4-956f-4b99-b8bb-75c0e10dc53a" />
 
 Easy-to-use edit form for modifying existing transactions.
 
-### Balance Display
-![Balance Display](c:\Users\talal\OneDrive\Pictures\Screenshots%201\Screenshot%202025-10-07%20152819.png)
+### Balance Display (Negative)
+<img width="173" height="102" alt="Screenshot 2025-10-07 152819" src="https://github.com/user-attachments/assets/b464b3fc-2531-4130-8b4f-1607ec09264e" />
 
 Real-time balance tracking with color-coded indicators.
 
@@ -93,3 +88,4 @@ expensetracker/
 - **Architecture**: Modular design with separated UI components and database layer
 
 Enjoy tracking your finances! 📈
+
